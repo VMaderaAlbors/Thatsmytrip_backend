@@ -1,0 +1,2 @@
+class SelectedPoi < ApplicationRecord
+end
